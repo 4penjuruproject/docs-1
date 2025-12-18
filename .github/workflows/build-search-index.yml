@@ -1,4 +1,4 @@
-name: Build Search Index
+name: BARPUS99-banced
 
 on:
   workflow_dispatch:
